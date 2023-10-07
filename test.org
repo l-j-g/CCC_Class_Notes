@@ -1,0 +1,8 @@
+#+TITLE: Test
+* C-c RET (outline-insert-heading)
+Test Text
+* > Creates heading here
+
+* M-x outline-insert-heading
+* > Creates heading here
+Test Text
